@@ -1,0 +1,16 @@
+<resources>
+
+    <string name="app_name">Shop2Drop</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_shop2_drop">Shop2DropActivity</string>
+    <string name ="column_name1">Name</string>
+	<string name ="column_name2">Amount</string>
+	<string name ="emptyList">No Data</string>
+	<string name ="newItemButton">New Item</string>
+	<string name ="newColumnButton">New Column</string>
+	<string name ="exitButton">Exit</string>
+	<string name ="header_item1">Name</string>
+	<string name ="header_item2">Price</string>
+	<string name ="newText">Enter new name: </string>
+</resources>

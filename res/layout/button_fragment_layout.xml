@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <LinearLayout
+		xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/buttonFragmentLayout"
+	    android:layout_width="match_parent"
+	    android:layout_height="40dip"
+	    android:orientation="horizontal">
+
+	    <Button
+	        android:id="@+id/newItemButton"
+	        android:layout_width="0dip"
+	        android:layout_height="40dip"
+	        android:layout_weight="1"
+	        android:text="@string/newColumnButton" />
+
+	    <Button
+	        android:id="@+id/newColumnButton"
+	        android:layout_width="0dip"
+	        android:layout_height="40dip"
+	        android:layout_weight="1"
+	        android:text="@string/newItemButton" />
+
+	    <Button
+	        android:id="@+id/exitButton"
+	        android:layout_width="0dip"
+	        android:layout_height="40dip"
+	        android:layout_weight="1"
+	        android:text="@string/exitButton" />
+    </LinearLayout>

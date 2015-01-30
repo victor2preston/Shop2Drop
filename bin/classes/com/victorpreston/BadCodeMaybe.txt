@@ -1,0 +1,14 @@
+    <fragment
+        android:id="@+id/S2DButtonFragment"
+        android:name="com.victorpreston.shop2drop.S2DButtonFragment"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        class="com.victorpreston.shop2drop.S2DButtonFragment"
+        tools:layout="@layout/button_fragment_layout" />
+    <fragment
+        android:id="@+id/listFragment"
+        android:name="com.victorpreston.shop2drop.S2DListFragment"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        class="com.victorpreston.shop2drop.S2DListFragment"
+        tools:layout="@layout/list_fragment" />
