@@ -1,4 +1,4 @@
-<Client name="SONY N200">
+<Client name= "SONY N200">
     <Identification>
       <Header name="X-AV-Client-Info" substring="Media" />
     </Identification>
